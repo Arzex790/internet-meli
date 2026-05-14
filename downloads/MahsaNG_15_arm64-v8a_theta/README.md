@@ -1,0 +1,24 @@
+# MahsaNG_15_arm64-v8a.apk Archive
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `MahsaNG_15_arm64-v8a.apk` |
+| **Size** | 51 MB |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Link
+
+| File | Link |
+|------|------|
+| `MahsaNG_15_arm64-v8a.apk.zip` | [Download](https://github.com/Arzex790/internet-meli/raw/main/downloads/MahsaNG_15_arm64-v8a_theta/MahsaNG_15_arm64-v8a.apk.zip) |
+
+---
+
+*This tool created by [hasanahani.ir](https://hasanahani.ir)*
