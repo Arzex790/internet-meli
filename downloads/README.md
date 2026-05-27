@@ -6,6 +6,7 @@
 - [ShirOKhorshid-2026.05.14](./ShirOKhorshid-2026.05.14)
 - [mhrv-rs-android-arm64-v8a-v1.9.28](./mhrv-rs-android-arm64-v8a-v1.9.28)
 - [montagem-pegadora-slowed](./montagem-pegadora-slowed)
+- [v2rayNG_2.1.8-fdroid_arm64-v8a](./v2rayNG_2.1.8-fdroid_arm64-v8a)
 
 ---
 
